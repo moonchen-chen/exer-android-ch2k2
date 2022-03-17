@@ -3,15 +3,32 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/avatar.xml" value="0.2985" />
         <entry key="..\:/BT Android/login/app/src/main/res/drawable/custom_bt2.xml" value="0.2985" />
         <entry key="..\:/BT Android/login/app/src/main/res/drawable/custom_button.xml" value="0.2985" />
         <entry key="..\:/BT Android/login/app/src/main/res/drawable/custom_textfield.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_backgroundprofile.xml" value="0.2985" />
         <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_brooke_lark_lcz9nxhoslo_unsplash_1.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_ellipse_128.xml" value="0.2985" />
         <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_group_17863.xml" value="0.25" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_group_17864.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_group_17865.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_group_17955.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_group_18052.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_group_18120.xml" value="0.2985" />
         <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_group_18121.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_group_87.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/ic_super_g.xml" value="0.2985" />
+        <entry key="..\:/BT Android/login/app/src/main/res/drawable/nut_tron.xml" value="0.2985" />
         <entry key="..\:/BT Android/login/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/BT Android/login/app/src/main/res/layout/activity_profile.xml" value="0.358695652173913" />
         <entry key="..\:/BT Android/login/app/src/main/res/layout/activity_signup.xml" value="0.33" />
         <entry key="..\:/BT Android/login/app/src/main/res/layout/activity_verifycode.xml" value="0.358695652173913" />
+        <entry key="..\:/BT Android/login/app/src/main/res/layout/dialog_email.xml" value="0.358695652173913" />
+        <entry key="..\:/BT Android/login/app/src/main/res/layout/dialog_fullname.xml" value="0.358695652173913" />
+        <entry key="..\:/BT Android/login/app/src/main/res/layout/dialog_phone.xml" value="0.358695652173913" />
       </map>
     </option>
   </component>
