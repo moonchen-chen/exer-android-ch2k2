@@ -29,6 +29,11 @@
         <entry key="..\:/BT Android/login/app/src/main/res/layout/dialog_email.xml" value="0.358695652173913" />
         <entry key="..\:/BT Android/login/app/src/main/res/layout/dialog_fullname.xml" value="0.358695652173913" />
         <entry key="..\:/BT Android/login/app/src/main/res/layout/dialog_phone.xml" value="0.358695652173913" />
+        <entry key="..\:/NHH/exer-android-ch2k2/login/app/src/main/res/drawable-v24/buttonskip.xml" value="0.1505" />
+        <entry key="..\:/NHH/exer-android-ch2k2/login/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/NHH/exer-android-ch2k2/login/app/src/main/res/layout/activity_onboarding_one.xml" value="0.22826086956521738" />
+        <entry key="..\:/NHH/exer-android-ch2k2/login/app/src/main/res/layout/activity_profile.xml" value="0.22826086956521738" />
+        <entry key="..\:/NHH/exer-android-ch2k2/login/app/src/main/res/layout/activity_welcome.xml" value="0.22826086956521738" />
       </map>
     </option>
   </component>
