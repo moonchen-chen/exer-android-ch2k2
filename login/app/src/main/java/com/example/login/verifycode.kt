@@ -4,7 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.login.signup
-import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.activity_signin.*
 import kotlinx.android.synthetic.main.activity_verifycode.*
 
 class verifycode : AppCompatActivity() {

@@ -34,7 +34,7 @@
         android:layout_height="72dp"
         android:layout_marginStart="240dp"
         android:layout_marginTop="56dp"
-        android:src="@drawable/Union"
+        android:src="@drawable/union"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -84,7 +84,7 @@
         android:layout_height="85dp"
         android:layout_marginStart="56dp"
         android:layout_marginTop="314dp"
-        android:src="@drawable/Union"
+        android:src="@drawable/union"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

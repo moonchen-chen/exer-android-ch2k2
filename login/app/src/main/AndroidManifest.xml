@@ -13,6 +13,15 @@
             android:name=".OnboardingThree"
             android:exported="false" />
         <activity
+            android:name=".OnboardingTwo"
+            android:exported="false" />
+        <activity
+            android:name=".OnboardingOne"
+            android:exported="false" />
+        <activity
+            android:name=".WelCome"
+            android:exported="false" />
+        <activity
             android:name=".profile"
             android:exported="false" />
         <activity
@@ -20,6 +29,9 @@
             android:exported="false" />
         <activity
             android:name=".signup"
+            android:exported="false" />
+        <activity
+            android:name=".SignIn"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
