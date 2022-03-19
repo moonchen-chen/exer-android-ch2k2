@@ -36,10 +36,13 @@ class MainActivity : AppCompatActivity() {
 //        }
 
 
-        val next = findViewById<ImageView>(R.id.imagefoodhub)
-        next.setOnClickListener {
+       splash_hub.alpha=0f
+        splash_hub.animate().setDuration(3000).alpha(1f).withEndAction {
             val intent : Intent = Intent(this@MainActivity, OnboardingOne::class.java)
             startActivity(intent)
+            overridePendingTransition(android.R.anim.fade_in,android.R.anim.fade_out)
+            finish()
+        }
         }
 
     }
