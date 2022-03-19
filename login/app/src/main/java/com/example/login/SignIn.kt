@@ -12,6 +12,12 @@ class SignIn : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_signin)
+        
+        back_login.setOnClickListener {
+            val intent1: Intent =
+                Intent(this@SignIn, com.example.login.WelCome::class.java)
+            startActivity(intent1)
+        }
 
         val buttonlogin = findViewById<Button>(R.id.buttonlogin)
         lateinit var user: String
